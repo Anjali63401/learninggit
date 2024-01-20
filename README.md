@@ -1,2 +1,3 @@
 "# learninggit" 
-"# learninggit" 
+def addition(a,b):
+    return a+b
